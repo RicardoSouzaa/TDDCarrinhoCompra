@@ -1,0 +1,7 @@
+D:\Dev\Ricardo\Testes\TDDCarrinhoCompras\bin\Debug\TDDCarrinhoCompras.exe.config
+D:\Dev\Ricardo\Testes\TDDCarrinhoCompras\bin\Debug\TDDCarrinhoCompras.exe
+D:\Dev\Ricardo\Testes\TDDCarrinhoCompras\bin\Debug\TDDCarrinhoCompras.pdb
+D:\Dev\Ricardo\Testes\TDDCarrinhoCompras\obj\Debug\TDDCarrinhoCompras.csproj.AssemblyReference.cache
+D:\Dev\Ricardo\Testes\TDDCarrinhoCompras\obj\Debug\TDDCarrinhoCompras.csproj.CoreCompileInputs.cache
+D:\Dev\Ricardo\Testes\TDDCarrinhoCompras\obj\Debug\TDDCarrinhoCompras.exe
+D:\Dev\Ricardo\Testes\TDDCarrinhoCompras\obj\Debug\TDDCarrinhoCompras.pdb
